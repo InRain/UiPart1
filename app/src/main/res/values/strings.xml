@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UiPart1</string>
+    <string name="frame_layout_text">This is a text in frame layout</string>
+    <string name="linear_layout_text_1">this  is a text</string>
+    <string name="linear_layout_text_2">in a vertical</string>
+    <string name="linear_layout_text_3">linear layout</string>
+    <string name="copy_text">Copy text</string>
+    <string name="enter_some_text">Enter some text</string>
+    <string name="simple_image">Simple image</string>
+</resources>
